@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hello 👋 I'm a frontend web developer</h1>
+<h1 align="left">Hello 👋 This is Kazi Muzahidul Islam Zehad. A passionate Frontend Web Developer</h1>
 
 ###
 
