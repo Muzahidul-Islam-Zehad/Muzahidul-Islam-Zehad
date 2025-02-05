@@ -63,6 +63,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 <h6 align="center">OR</h6>
+<div>
+  <p>Phone : +8801745438667 (Whatsapp)[!text only!]</p>
+</div>
 
 ###
 
