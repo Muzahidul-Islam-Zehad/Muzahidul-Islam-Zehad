@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Myself Kazi Muzahidul Islam Zehad. I'm a frontend web developer.  Currently i'm doing B.Sc. Engg. in CSE  at BUBT.<br>✨ Creating bugs since 2024<br>📚 I'm currently learning Next.js<br>🎯 Goals: Being a better programmer<br>🎲 Fun fact: I love biriyani</p>
+<p align="left">I'm a frontend web developer skilled in React.js, Tailwind CSS, and Firebase. I have basic knowledge of MongoDB and Express.js, allowing me to work with both frontend and backend functionalities. I enjoy building responsive and dynamic web applications while continuously learning new technologies.<br>✨ Creating bugs since 2024<br>📚 I'm currently learning Next.js<br>🎯 Goals: Being a better programmer<br>🎲 Fun fact: I love biriyani</p>
 
 ###
 
