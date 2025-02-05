@@ -72,9 +72,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muzahidul-Islam-Zehad&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Muzahidul-Islam-Zehad&theme=dark&hide_border=false)
 
 ###
