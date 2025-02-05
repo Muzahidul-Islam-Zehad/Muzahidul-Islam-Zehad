@@ -64,7 +64,7 @@
 </div>
 <h6 align="center">OR</h6>
 <div align="center">
-  <p>Phone : +8801745438667 (Whatsapp)[!text only!]</p>
+  <p>Phone : +8801745438667 (Whatsapp) [ -!text only!- ]</p>
 </div>
 
 ###
